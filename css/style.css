@@ -29,7 +29,19 @@
     height: 90vh;
 }
 
-.square {
+.images{
+    width: 280px;
+    height: 280px;
+}
+
+.square{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    background-color:#11c9e9;
     border: 5px solid #0944c5;
-    
+    width: 400px;
+    height: 400px;
+    margin-left: 720px;
+    opacity: .5;
 }
